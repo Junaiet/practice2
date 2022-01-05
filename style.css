@@ -78,3 +78,21 @@ border-radius: 5%;
 
 }
 
+.flexible-container{
+
+display:flex;
+
+}
+
+.experince-item{
+
+box-shadow: 10px 10px 50px green;
+width:40%
+margin-right:5%;
+margin-left:5%;
+padding:15px;
+
+}
+
+
+
