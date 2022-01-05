@@ -81,16 +81,29 @@ border-radius: 5%;
 .flexible-container{
 
 display:flex;
+ 
 
 }
 
 .experince-item{
 
-box-shadow: 10px 10px 50px green;
+box-shadow: 10px 10px 40px green;
+border-left: 8px solid red;
+border-radius: 5px;
 width:40%
 margin-right:5%;
 margin-left:5%;
 padding:15px;
+
+
+
+}
+
+footer{
+
+text-align: center;
+font-size:20px;
+font-weight: bolder;
 
 }
 
